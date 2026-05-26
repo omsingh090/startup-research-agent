@@ -297,6 +297,11 @@ The project handles:
 - missing results
 - invalid queries
 
+## Demo Screenshot
+
+![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
+
 ---
 
 # Author
